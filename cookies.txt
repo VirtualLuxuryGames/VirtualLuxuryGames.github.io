@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-frooplootsjordan.wixsite.com	TRUE	/blink	FALSE	1999999999	svSession	63afb421e0be42ff820c15a5d66d6e76d725b470224a9dac0d7c5afd701d0ab5195e18fc6da210631a763baabe35b8101e60994d53964e647acf431e4f798bcd51a808bb7b75ee44d69777701ac097d2cb3d7b2b311ed287bb0bf4d94afe1aff
-frooplootsjordan.wixsite.com	TRUE	/blink	FALSE	1999999999	TS01d81751	0141ccf485d640fa014c033d9fb4cf39029cde9f9867ab0cce505f9354c3bf85f76fbd3b493926216a5670b7c24a7be176bf98cb34
-frooplootsjordan.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1573165565|4aXQYym1s6l4
-frooplootsjordan.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1653440712
-frooplootsjordan.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=84"
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485d640fa014c033d9fb4cf39029cde9f9867ab0cce505f9354c3bf85f76fbd3b493926216a5670b7c24a7be176bf98cb34
-
